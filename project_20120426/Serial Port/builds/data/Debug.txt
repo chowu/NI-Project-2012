@@ -1,0 +1,4 @@
+System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 NI.AccessControlSystem.AccessController.Certificate(String id, String time)
+System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 NI.AccessControlSystem.AccessController.Certificate(String id, String time)

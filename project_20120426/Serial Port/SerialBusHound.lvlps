@@ -1,0 +1,55 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "195,373,775,814"
+
+[AB_Cache_{967C27E3-2E85-4176-8592-D84DDAB6E9FC}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "78d43818ee5e2f218f62a40500feabaa"
+Cache_GenFile_Count[Integer] = 6
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[0][Path] Line0002 = "BusHound.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[1][Path] Line0002 = "BusHound.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[2][Path] Line0002 = "BusHound.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[3][Path] Line0002 = "data/ajax-loader.gif"
+Cache_GenFile[4][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[4][Path] Line0002 = "data/Debug.txt"
+Cache_GenFile[5][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[5][Path] Line0002 = "data/Logo.png"
+Cache_GenGUID_Count[Integer] = 6
+Cache_GenGUID[0][String] = "{F11F18A5-C7EB-48AB-8BFA-8D66505E0493}"
+Cache_GenGUID[1][String] = "{9F84FEC2-08AA-4DC4-80A1-6EBA3779C473}"
+Cache_GenGUID[2][String] = "{EE2F5324-9FD7-4916-87AA-E577BB01D8AA}"
+Cache_GenGUID[3][String] = "{FE307A65-712A-4221-8352-CB742F2E6E88}"
+Cache_GenGUID[4][String] = "{7410A995-7AB6-42B3-91AC-EE06B25A7DCF}"
+Cache_GenGUID[5][String] = "{F69A005E-5A20-483D-BEDC-9658F76E1D29}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/Serial Port/builds"
+
+[AB_Cache_{88C618A1-5EB6-4D85-9FEF-B3CFA68114B4}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "78d43818ee5e2f218f62a40500feabaa"
+Cache_GenFile_Count[Integer] = 6
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[0][Path] Line0002 = "BusHound.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[1][Path] Line0002 = "BusHound.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[2][Path] Line0002 = "BusHound.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[3][Path] Line0002 = "data/ajax-loader.gif"
+Cache_GenFile[4][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[4][Path] Line0002 = "data/Debug.txt"
+Cache_GenFile[5][Path] Line0001 = "/C/Users/chchung/Desktop/Serial Port/builds/"
+Cache_GenFile[5][Path] Line0002 = "data/Logo.png"
+Cache_GenGUID_Count[Integer] = 6
+Cache_GenGUID[0][String] = "{F11F18A5-C7EB-48AB-8BFA-8D66505E0493}"
+Cache_GenGUID[1][String] = "{9F84FEC2-08AA-4DC4-80A1-6EBA3779C473}"
+Cache_GenGUID[2][String] = "{EE2F5324-9FD7-4916-87AA-E577BB01D8AA}"
+Cache_GenGUID[3][String] = "{FE307A65-712A-4221-8352-CB742F2E6E88}"
+Cache_GenGUID[4][String] = "{7410A995-7AB6-42B3-91AC-EE06B25A7DCF}"
+Cache_GenGUID[5][String] = "{F69A005E-5A20-483D-BEDC-9658F76E1D29}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/Serial Port/builds"
+

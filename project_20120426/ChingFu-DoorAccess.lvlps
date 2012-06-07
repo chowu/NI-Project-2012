@@ -1,0 +1,155 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "156,264,730,646"
+
+[AB_Cache_{907CBFF1-EA0E-411F-9543-C40AB077F7DF}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "240749f6a74c9de6938f92efbf416518"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-T"
+Cache_GenFile[0][Path] Line0002 = "x/TCP Tx.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-T"
+Cache_GenFile[1][Path] Line0002 = "x/TCP Tx.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-T"
+Cache_GenFile[2][Path] Line0002 = "x/TCP Tx.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{03F72647-8C91-4D16-9CFF-132915601B9A}"
+Cache_GenGUID[1][String] = "{4B7E2FB9-DE50-4F66-8AAD-E7990E052BDD}"
+Cache_GenGUID[2][String] = "{6FA04889-7BEA-4F7B-85B4-EC0A3F7198CC}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/TCP-Tx"
+
+[AB_Cache_{FAE5075D-AC2E-43D5-8B05-A3A5873135B2}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "240749f6a74c9de6938f92efbf416518"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-T"
+Cache_GenFile[0][Path] Line0002 = "x/TCP Tx.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-T"
+Cache_GenFile[1][Path] Line0002 = "x/TCP Tx.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-T"
+Cache_GenFile[2][Path] Line0002 = "x/TCP Tx.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{03F72647-8C91-4D16-9CFF-132915601B9A}"
+Cache_GenGUID[1][String] = "{4B7E2FB9-DE50-4F66-8AAD-E7990E052BDD}"
+Cache_GenGUID[2][String] = "{6FA04889-7BEA-4F7B-85B4-EC0A3F7198CC}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/TCP-Tx"
+
+[AB_Cache_{34071FB6-4573-4622-B73F-771BBD0A08BA}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "240749f6a74c9de6938f92efbf416518"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-R"
+Cache_GenFile[0][Path] Line0002 = "x/TCP Rx.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-R"
+Cache_GenFile[1][Path] Line0002 = "x/TCP Rx.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-R"
+Cache_GenFile[2][Path] Line0002 = "x/TCP Rx.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{C33D5FE6-855E-4D24-8511-43CE1EADF396}"
+Cache_GenGUID[1][String] = "{2079625B-7D60-48F0-9BE3-4FA8EBC1C9EB}"
+Cache_GenGUID[2][String] = "{048DEB79-4652-4AA1-9041-773673964A30}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/TCP-Rx"
+
+[AB_Cache_{80D9223C-BC0B-4517-85A7-3C42308418BD}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "240749f6a74c9de6938f92efbf416518"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-R"
+Cache_GenFile[0][Path] Line0002 = "x/TCP Rx.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-R"
+Cache_GenFile[1][Path] Line0002 = "x/TCP Rx.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-R"
+Cache_GenFile[2][Path] Line0002 = "x/TCP Rx.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{C33D5FE6-855E-4D24-8511-43CE1EADF396}"
+Cache_GenGUID[1][String] = "{2079625B-7D60-48F0-9BE3-4FA8EBC1C9EB}"
+Cache_GenGUID[2][String] = "{048DEB79-4652-4AA1-9041-773673964A30}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/TCP-Rx"
+
+[AB_Cache_{8B78FB06-5783-467F-9FAB-F41EA53B7394}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "af3d73e02afee85b5b2aca361fffe81d"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-L"
+Cache_GenFile[0][Path] Line0002 = "oopback/TCP-Loopback.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-L"
+Cache_GenFile[1][Path] Line0002 = "oopback/TCP-Loopback.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-L"
+Cache_GenFile[2][Path] Line0002 = "oopback/TCP-Loopback.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{61EE6F1F-C436-4FD8-82FB-D646C47D44FF}"
+Cache_GenGUID[1][String] = "{B47CF100-9F0F-4E23-B6D5-6B92DCECAAF1}"
+Cache_GenGUID[2][String] = "{3008821F-CD93-4831-B47D-466B970E3A93}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/TCP-Loopback"
+
+[AB_Cache_{C7780CC1-773E-406C-88AC-1BBC5C4510C2}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "af3d73e02afee85b5b2aca361fffe81d"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-L"
+Cache_GenFile[0][Path] Line0002 = "oopback/TCP-Loopback.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-L"
+Cache_GenFile[1][Path] Line0002 = "oopback/TCP-Loopback.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/TCP-L"
+Cache_GenFile[2][Path] Line0002 = "oopback/TCP-Loopback.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{61EE6F1F-C436-4FD8-82FB-D646C47D44FF}"
+Cache_GenGUID[1][String] = "{B47CF100-9F0F-4E23-B6D5-6B92DCECAAF1}"
+Cache_GenGUID[2][String] = "{3008821F-CD93-4831-B47D-466B970E3A93}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/TCP-Loopback"
+
+[AB_Cache_{2B2031B3-32ED-4087-82DE-CE0F695A1662}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "8f8af8ba71f1d466c17b22aa9def8571"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/SIM30"
+Cache_GenFile[0][Path] Line0002 = "0_Remote/SIM300_Remote.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/SIM30"
+Cache_GenFile[1][Path] Line0002 = "0_Remote/SIM300_Remote.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/SIM30"
+Cache_GenFile[2][Path] Line0002 = "0_Remote/SIM300_Remote.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{08F19E2F-9ED8-4283-A747-3671D9B7B6AD}"
+Cache_GenGUID[1][String] = "{3ED530E4-2D5C-4853-8A3C-BC03C537F3BA}"
+Cache_GenGUID[2][String] = "{71C25879-809B-4FCA-BAF6-CF3F50018AF2}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/SIM300_Remote"
+
+[AB_Cache_{A25CDB3E-5981-4AFC-883F-B265A4E299CB}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "8f8af8ba71f1d466c17b22aa9def8571"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/SIM30"
+Cache_GenFile[0][Path] Line0002 = "0_Remote/SIM300_Remote.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/SIM30"
+Cache_GenFile[1][Path] Line0002 = "0_Remote/SIM300_Remote.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/build/SIM30"
+Cache_GenFile[2][Path] Line0002 = "0_Remote/SIM300_Remote.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{08F19E2F-9ED8-4283-A747-3671D9B7B6AD}"
+Cache_GenGUID[1][String] = "{3ED530E4-2D5C-4853-8A3C-BC03C537F3BA}"
+Cache_GenGUID[2][String] = "{71C25879-809B-4FCA-BAF6-CF3F50018AF2}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/build/SIM300_Remote"
+
+[AB_Cache_{0A84F71C-E4CC-48E7-84CF-F702FBCF609E}]
+Cache_Path[Path] Line0001 = "/C/Users/chchung/AppData/Local/Temp/AB_Cache_{0A84"
+Cache_Path[Path] Line0002 = "F71C-E4CC-48E7-84CF-F702FBCF609E}.txt"
+
+[AB_Cache_{D3E84072-3074-4ECD-B079-B212B722BA66}]
+Cache_Path[Path] Line0001 = "/C/Users/chchung/AppData/Local/Temp/AB_Cache_{D3E8"
+Cache_Path[Path] Line0002 = "4072-3074-4ECD-B079-B212B722BA66}.txt"
+
+[AB_Cache_{B3B20A4B-D4F1-4476-9CE1-2D76DAE671AF}]
+Cache_Path[Path] Line0001 = "/C/Users/chchung/AppData/Local/Temp/AB_Cache_{B3B2"
+Cache_Path[Path] Line0002 = "0A4B-D4F1-4476-9CE1-2D76DAE671AF}.txt"
+
+[AB_Cache_{F901C5B4-F9BD-4285-A772-46E533B0189F}]
+Cache_Path[Path] Line0001 = "/C/Users/chchung/AppData/Local/Temp/AB_Cache_{F901"
+Cache_Path[Path] Line0002 = "C5B4-F9BD-4285-A772-46E533B0189F}.txt"
+

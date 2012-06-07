@@ -1,0 +1,79 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "224,398,699,797"
+
+[AB_Cache_{49895ABA-AB52-4C55-B14B-02F3805F3ED7}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "c33e36594aea10d5a957655a0f0be5f0"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[0][Path] Line0002 = "ds/Multiple Connections/My Application/TCP S"
+Cache_GenFile[0][Path] Line0003 = "erver.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[1][Path] Line0002 = "ds/Multiple Connections/My Application/TCP S"
+Cache_GenFile[1][Path] Line0003 = "erver.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[2][Path] Line0002 = "ds/Multiple Connections/My Application/TCP S"
+Cache_GenFile[2][Path] Line0003 = "erver.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{F8454E3C-4010-4AD7-9AF4-459AF6E90200}"
+Cache_GenGUID[1][String] = "{768E6ECB-A6C8-4702-A642-1D4F7DCB7C26}"
+Cache_GenGUID[2][String] = "{B3BCA4EB-8638-42B6-BBBB-767224E6B4CA}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/build"
+Cache_OutputDir[Path] Line0002 = "s/Multiple Connections/My Application"
+
+[AB_Cache_{09FFD465-5EF1-4E40-B79E-C13B53A0A239}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "c33e36594aea10d5a957655a0f0be5f0"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[0][Path] Line0002 = "ds/Multiple Connections/My Application/TCP S"
+Cache_GenFile[0][Path] Line0003 = "erver.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[1][Path] Line0002 = "ds/Multiple Connections/My Application/TCP S"
+Cache_GenFile[1][Path] Line0003 = "erver.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[2][Path] Line0002 = "ds/Multiple Connections/My Application/TCP S"
+Cache_GenFile[2][Path] Line0003 = "erver.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{F8454E3C-4010-4AD7-9AF4-459AF6E90200}"
+Cache_GenGUID[1][String] = "{768E6ECB-A6C8-4702-A642-1D4F7DCB7C26}"
+Cache_GenGUID[2][String] = "{B3BCA4EB-8638-42B6-BBBB-767224E6B4CA}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/build"
+Cache_OutputDir[Path] Line0002 = "s/Multiple Connections/My Application"
+
+[AB_Cache_{834A5461-0B75-4CA8-A3CF-3C3339E2C352}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "c33e36594aea10d5a957655a0f0be5f0"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[0][Path] Line0002 = "ds/Read TCP.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[1][Path] Line0002 = "ds/Read TCP.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[2][Path] Line0002 = "ds/Read TCP.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{351D01B3-A967-48E8-A7E7-B430C21D48D5}"
+Cache_GenGUID[1][String] = "{2CE8E794-74CB-4D31-A56B-93DA9771E637}"
+Cache_GenGUID[2][String] = "{0E0BC2E7-8D58-4E82-BC98-CD4CAE23DFFB}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/Server/builds"
+
+[AB_Cache_{019CFD6C-3B5F-48A4-A37D-91873BB616C8}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "c33e36594aea10d5a957655a0f0be5f0"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[0][Path] Line0002 = "ds/Read TCP.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[1][Path] Line0002 = "ds/Read TCP.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/chchung/Desktop/project/Server/buil"
+Cache_GenFile[2][Path] Line0002 = "ds/Read TCP.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{351D01B3-A967-48E8-A7E7-B430C21D48D5}"
+Cache_GenGUID[1][String] = "{2CE8E794-74CB-4D31-A56B-93DA9771E637}"
+Cache_GenGUID[2][String] = "{0E0BC2E7-8D58-4E82-BC98-CD4CAE23DFFB}"
+Cache_OutputDir[Path] = "/C/Users/chchung/Desktop/project/Server/builds"
+
